@@ -1,3 +1,18 @@
 # dayi-khala-test
 Repository for Git Tutorial
-ye gav daram germezi dor kolash germezi
+
+یه توپ دارم قلقلیه 
+
+سبز و سفید و آبیه
+
+میزنم زمین هوا میره
+
+نمیدونی تا کجا میره
+
+من این توپو نداشتم
+
+مشقامو خوب نوشتم
+
+بابام بهم عیدی داد
+
+یه توپ قلقلی داد
